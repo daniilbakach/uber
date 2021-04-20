@@ -1,4 +1,1 @@
-"# daniilbakach.github.io" 
-"# daniilbakach.github.io" 
-"# daniilbakach.github.io" 
-"# uber" 
+Проект в котором я впервые использовал способ верстки при помощи Bootstrap grid.
